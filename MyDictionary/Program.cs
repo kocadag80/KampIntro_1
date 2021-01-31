@@ -19,6 +19,9 @@ namespace MyDictionary
             Console.WriteLine(sozcukler.Length);
             
             Console.WriteLine("Hello World!");
+
+            Console.WriteLine("Hello World!");
+
         }
     }
 }

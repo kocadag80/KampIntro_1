@@ -4,6 +4,7 @@ using System.Text;
 
 namespace MyDictionary
 {
+    //Ahmet Kocadağ
     class DictionaryList<T>
     {
         T[] sozcukler;
